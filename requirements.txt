@@ -1,0 +1,8 @@
+openai
+PyPDF2
+python-dotenv
+pandas
+torch
+flask
+requests
+azure-ai-formrecognizer==3.3.0
